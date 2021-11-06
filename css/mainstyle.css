@@ -282,7 +282,7 @@ header .container .main-nav > .other:hover {
     display: flex;
     justify-content: center;
   }
-  header .container .main-nav > li > a {
+  header .container .main-nav > li {
     font-size: 14px;
     padding: 10px;
     height: 40px;
